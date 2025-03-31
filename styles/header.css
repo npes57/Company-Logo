@@ -1,0 +1,13 @@
+.container {
+    
+}
+
+.header {
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+
+.header-menu__link {
+    list-style-type: none;
+    display: flex;
+}
