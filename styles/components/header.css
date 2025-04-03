@@ -1,6 +1,7 @@
 .header {
     background-color: var(--color-black);
     color: var(--color-white);
+    max-width: 1600px;
 }
 
 .header-menu__link {
