@@ -1,4 +1,6 @@
 :root {
-    --color-white: #FFFFFF;
     --color-black: #1D1D1F;
+    --color-white: #ffffff;
+
+    --font-family: 'Inter';
 }
